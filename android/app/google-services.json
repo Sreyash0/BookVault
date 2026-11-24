@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258760590542",
+    "project_id": "bookvault-189ce",
+    "storage_bucket": "bookvault-189ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258760590542:android:2589ed1a1f323b998bfc9f",
+        "android_client_info": {
+          "package_name": "com.bookvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqjtuk0W0IgoY510EQPz0k-HVGPmdNeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
